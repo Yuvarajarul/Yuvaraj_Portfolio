@@ -7,7 +7,7 @@ Experienced Data Analyst with 2 years of hands-on experience in Data Analysis al
 
 ### Software Engineer
 
-Jul 2019~Present
+Jul 2019~Present 
 
 •	Experienced in creating stored procedures, as well as developing applications using indexes, views, constraints, triggers, and sub queries. 
 
