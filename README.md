@@ -34,4 +34,11 @@ Jul 2019~Present
 
 ### 	1.LinkedIn Certified Power BI Specialist: 
 
+[CertificateOfCompletion_Become a Power BI Specialist.pdf](https://github.com/Yuvarajarul/Yuvaraj_Portfolio/files/15022864/CertificateOfCompletion_Become.a.Power.BI.Specialist.pdf)
+
+###     2.PWC Virtual Internship certificate:
+
+[PWC Certificate.pdf](https://github.com/Yuvarajarul/Yuvaraj_Portfolio/files/15022866/PWC.Certificate.pdf)
+
+
 
