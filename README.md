@@ -20,10 +20,10 @@ Jul 2019~Present
 
 ## Skills & Knowledge
 
-        1. Datasets: MS SQL Server, MS Excel
-        2. Languages: T-SQL, DAX
-        3. Tools: SSMS, SSIS, Power BI
-        4. Data Analysis: Data Cleaning, Data Manipulation, Data Visualization, Data Modelling, ETL, Power Query
+        1. Datasets: **MS SQL Server, MS Excel**
+        2. Languages: **T-SQL, DAX**
+        3. Tools: **SSMS, SSIS, Power BI**
+        4. Data Analysis: **Data Cleaning, Data Manipulation, Data Visualization, Data Modelling, ETL, Power Query**
         
 ## Certifications:
 
