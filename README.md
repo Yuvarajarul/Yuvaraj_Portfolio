@@ -56,11 +56,15 @@ https://github.com/Yuvarajarul/Call-Trend-Analyis.git
 
 ### 3. PWC Customer Churn Analysis 
 
+https://app.powerbi.com/view?r=eyJrIjoiNjg5MWFkMzUtNDFjZS00ODYzLTg5MWMtZThiMDRlMDAwZDYwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+
 •	Using Power BI, developed a comprehensive HR analysis dashboard using by integrating data from multiple sources (SQL) to provide insights into Employee performance,trends and forecasts. 
 
 •	Implemented advanced DAX calculations and measures to measure key performance indicators (KPIs) and track Employee's metrics.
 
 ### 4. PWC Diversity & Inclusion Aalysis
+
+https://app.powerbi.com/view?r=eyJrIjoiZmU5MTM4OWMtYjZlYi00OGRlLTgwOTEtMzc0NTE4MjNlNGMxIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
 •	Using Power BI, developed a comprehensive HR analysis dashboard using by integrating data from multiple sources (SQL) to provide insights into Employee performance,trends and forecasts. 
 
@@ -68,11 +72,14 @@ https://github.com/Yuvarajarul/Call-Trend-Analyis.git
 
 ### 5. Global GDP Data Analysis 
 
+https://app.powerbi.com/view?r=eyJrIjoiNmI5ODI0NWItMWQ2ZC00Mjc3LThkZWItMTQ0Njc3ZjlhZjNkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+
 •	Using Power BI, developed a comprehensive HR analysis dashboard using by integrating data from multiple sources (SQL) to provide insights into Employee performance,trends and forecasts. 
 
 •	Implemented advanced DAX calculations and measures to measure key performance indicators (KPIs) and track Employee's metrics.
 
 ### 6. Spotify Tracks Analysis
+https://app.powerbi.com/view?r=eyJrIjoiNjZkZTQ0MDMtNmIzOS00YzczLWI0NWQtMWVmM2IxZjU2NmZjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
 •	Using Power BI, developed a comprehensive HR analysis dashboard using by integrating data from multiple sources (SQL) to provide insights into Employee performance,trends and forecasts. 
 
