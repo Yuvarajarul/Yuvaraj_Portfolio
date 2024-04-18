@@ -24,6 +24,20 @@ Jul 2019~Present
         2. Languages: **T-SQL, DAX**
         3. Tools: **SSMS, SSIS, Power BI**
         4. Data Analysis: **Data Cleaning, Data Manipulation, Data Visualization, Data Modelling, ETL, Power Query**
+
+## Projects
+
+        ### 1. HR Analysis Dashboard
+
+        ### 2. PWC Call Trend Analysis
+
+        ### 3. PWC Customer Churn Analysis
+
+        ### 4. PWC Diversity & Inclusion Aalysis
+
+        ### 5. Global GDP Data Analysis
+
+        ### 6. Spotify Tracks Analysis
         
 ## Certifications:
 
