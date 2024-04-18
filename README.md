@@ -49,7 +49,7 @@ https://github.com/Yuvarajarul/Yuvaraj_Portfolio/assets/147295096/b9210e3a-52df-
 
 ### 4. PWC Diversity & Inclusion Aalysis
 
-### 5. Global GDP Data Analysis
+### 5. Global GDP Data Analysis 
 
 ### 6. Spotify Tracks Analysis
         
