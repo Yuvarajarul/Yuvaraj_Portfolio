@@ -34,3 +34,4 @@ Jul 2019~Present
 
 ### 	1.LinkedIn Certified Power BI Specialist: 
 
+
