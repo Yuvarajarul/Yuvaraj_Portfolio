@@ -5,7 +5,7 @@ Experienced Data Analyst with 2 years of hands-on experience in Data Analysis al
 ## Work Experiences
 ### Netaccess India Limited 
 
-### Software Engineer
+### Software Engineer 
 
 Jul 2019~Present 
 
