@@ -24,6 +24,7 @@ Jul 2019~Present
         2. Languages: T-SQL, DAX
         3. Tools: SSMS, SSIS, Power BI
         4. Data Analysis: Data Cleaning, Data Manipulation, Data Visualization, Data Modelling, ETL, Power Query
+        
 ## Certifications:
 
 ### 	1.LinkedIn Certified Power BI Specialist: 
