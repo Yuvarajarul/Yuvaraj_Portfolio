@@ -25,6 +25,7 @@ Jul 2019~Present
         3. Tools: SSMS, SSIS, Power BI
         4. Data Analysis: Data Cleaning, Data Manipulation, Data Visualization, Data Modelling, ETL, Power Query
 
+
 ## Projects
 
         ### 1. HR Analysis Dashboard
