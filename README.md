@@ -30,9 +30,9 @@ Jul 2019~Present
 
 ### 1. HR Analysis Dashboard
 
-1.Using Power BI, developed a comprehensive HR analysis dashboard using by integrating data from multiple sources (SQL) to provide insights into Employee performance,                       trends, and forecasts.
+1. Using Power BI, developed a comprehensive HR analysis dashboard using by integrating data from multiple sources (SQL) to provide insights into Employee performance,                       trends, and forecasts.
 
-2.Implemented advanced DAX calculations and measures to measure key performance indicators (KPIs) and track Employee's metrics.
+2. Implemented advanced DAX calculations and measures to measure key performance indicators (KPIs) and track Employee's metrics.
     
 ### 2. PWC Call Trend Analysis
 
