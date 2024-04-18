@@ -1,7 +1,6 @@
 # About
 
-Experienced Data Analyst with 2 years of hands-on experience in Data Analysis along with 3 years of hands-on experience in database development (MS SQL Developer). Possess an additional 6 months experience in non-IT roles. Proficient in data analysis, ETL processes, and Data Visualization tools such as Power BI. Skilled in T-SQL, Stored Procedures, and Data Manipulation.
-
+Experienced Data Analyst with 2 years of hands-on experience in Data Analysis along with 3 years of hands-on experience in database development (MS SQL Developer). Possess an additional 6 months of experience in non-IT roles. Proficient in data analysis, ETL processes, and Data Visualization tools such as Power BI. Skilled in T-SQL, Stored Procedures, and Data Manipulation. 
 ## Work Experiences
 ### Netaccess India Limited
 
