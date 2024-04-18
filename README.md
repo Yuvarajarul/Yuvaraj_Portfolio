@@ -34,52 +34,41 @@ Jul 2019~Present
 
 ## Projects
 
-### 1. HR Analysis Dashboard 
-
-https://app.powerbi.com/view?r=eyJrIjoiNjYwODVhODYtMmMyNC00NTRjLTlmMGQtMzQ0OGIyMGZlZDhkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+### 1. HR Analysis Dashboard [DashBoard View](https://app.powerbi.com/view?r=eyJrIjoiNjYwODVhODYtMmMyNC00NTRjLTlmMGQtMzQ0OGIyMGZlZDhkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 •	Using Power BI, developed a comprehensive HR analysis dashboard using by integrating data from multiple sources (SQL) to provide insights into Employee performance,trends and forecasts. 
 
 •	Implemented advanced DAX calculations and measures to measure key performance indicators (KPIs) and track Employee's metrics.
 
-https://github.com/Yuvarajarul/Yuvaraj_Portfolio/assets/147295096/b9210e3a-52df-4585-a4f6-59cf14d8844b
+[video](https://github.com/Yuvarajarul/Yuvaraj_Portfolio/assets/147295096/b9210e3a-52df-4585-a4f6-59cf14d8844b)
     
-### 2. PWC Call Trend Analysis
-
-https://app.powerbi.com/view?r=eyJrIjoiNDRlNjFmYzYtZjZlZi00NTJjLWIzZGYtZmRlMzcwMTE2NGQ3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+### 2. PWC Call Trend Analysis [DashBoard View](https://app.powerbi.com/view?r=eyJrIjoiNDRlNjFmYzYtZjZlZi00NTJjLWIzZGYtZmRlMzcwMTE2NGQ3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 •	Using Power BI, developed a comprehensive HR analysis dashboard using by integrating data from multiple sources (SQL) to provide insights into Employee performance,trends and forecasts. 
 
 •	Implemented advanced DAX calculations and measures to measure key performance indicators (KPIs) and track Employee's metrics.
 
-https://github.com/Yuvarajarul/Call-Trend-Analyis.git
+[Repositories Link](https://github.com/Yuvarajarul/Call-Trend-Analyis.git)
 
-### 3. PWC Customer Churn Analysis 
-
-https://app.powerbi.com/view?r=eyJrIjoiNjg5MWFkMzUtNDFjZS00ODYzLTg5MWMtZThiMDRlMDAwZDYwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+### 3. PWC Customer Churn Analysis [DashBoard View](https://app.powerbi.com/view?r=eyJrIjoiNjg5MWFkMzUtNDFjZS00ODYzLTg5MWMtZThiMDRlMDAwZDYwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 •	Using Power BI, developed a comprehensive HR analysis dashboard using by integrating data from multiple sources (SQL) to provide insights into Employee performance,trends and forecasts. 
 
 •	Implemented advanced DAX calculations and measures to measure key performance indicators (KPIs) and track Employee's metrics.
 
-### 4. PWC Diversity & Inclusion Aalysis
-
-https://app.powerbi.com/view?r=eyJrIjoiZmU5MTM4OWMtYjZlYi00OGRlLTgwOTEtMzc0NTE4MjNlNGMxIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+### 4. PWC Diversity & Inclusion Aalysis [DashBoard View](https://app.powerbi.com/view?r=eyJrIjoiZmU5MTM4OWMtYjZlYi00OGRlLTgwOTEtMzc0NTE4MjNlNGMxIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 •	Using Power BI, developed a comprehensive HR analysis dashboard using by integrating data from multiple sources (SQL) to provide insights into Employee performance,trends and forecasts. 
 
 •	Implemented advanced DAX calculations and measures to measure key performance indicators (KPIs) and track Employee's metrics.
 
-### 5. Global GDP Data Analysis 
-
-https://app.powerbi.com/view?r=eyJrIjoiNmI5ODI0NWItMWQ2ZC00Mjc3LThkZWItMTQ0Njc3ZjlhZjNkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+### 5. Global GDP Data Analysis [DashBoard View](https://app.powerbi.com/view?r=eyJrIjoiNmI5ODI0NWItMWQ2ZC00Mjc3LThkZWItMTQ0Njc3ZjlhZjNkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 •	Using Power BI, developed a comprehensive HR analysis dashboard using by integrating data from multiple sources (SQL) to provide insights into Employee performance,trends and forecasts. 
 
 •	Implemented advanced DAX calculations and measures to measure key performance indicators (KPIs) and track Employee's metrics.
 
-### 6. Spotify Tracks Analysis
-https://app.powerbi.com/view?r=eyJrIjoiNjZkZTQ0MDMtNmIzOS00YzczLWI0NWQtMWVmM2IxZjU2NmZjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+### 6. Spotify Tracks Analysis [DashBoard View](https://app.powerbi.com/view?r=eyJrIjoiNjZkZTQ0MDMtNmIzOS00YzczLWI0NWQtMWVmM2IxZjU2NmZjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 •	Using Power BI, developed a comprehensive HR analysis dashboard using by integrating data from multiple sources (SQL) to provide insights into Employee performance,trends and forecasts. 
 
