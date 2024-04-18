@@ -28,17 +28,17 @@ Jul 2019~Present
 
 ## Projects
 
-   ### 1. HR Analysis Dashboard
+### 1. HR Analysis Dashboard
 
-   ### 2. PWC Call Trend Analysis
+### 2. PWC Call Trend Analysis
 
-   ### 3. PWC Customer Churn Analysis
+### 3. PWC Customer Churn Analysis
 
-   ### 4. PWC Diversity & Inclusion Aalysis
+### 4. PWC Diversity & Inclusion Aalysis
 
-   ### 5. Global GDP Data Analysis
+### 5. Global GDP Data Analysis
 
-   ### 6. Spotify Tracks Analysis
+### 6. Spotify Tracks Analysis
         
 ## Certifications:
 
