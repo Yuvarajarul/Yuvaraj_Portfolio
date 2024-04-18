@@ -9,19 +9,19 @@ Experienced Data Analyst with 2 years of hands-on experience in Data Analysis al
 
 Jul 2019~Present 
 
-•	Experienced in creating stored procedures, as well as developing applications using indexes, views, constraints, triggers, and sub queries. 
+- Experienced in creating stored procedures, as well as developing applications using indexes, views, constraints, triggers, and sub queries. 
 
-•	Developed T-SQL queries and views to extract and manipulate (ETL) data from various sources.
+- Developed T-SQL queries and views to extract and manipulate (ETL) data from various sources.
 
-•	Created interactive dashboards and reports using Power BI to visualize key metrics and trends.
+- Created interactive dashboards and reports using Power BI to visualize key metrics and trends.
 
-•	Analysed data to identify patterns and insights, driving data-driven decision-making.
+- Analysed data to identify patterns and insights, driving data-driven decision-making.
 
-•	Collaborated with cross-functional teams to understand business requirements and deliver actionable insights.
+- Collaborated with cross-functional teams to understand business requirements and deliver actionable insights.
 
-•	Developed and maintained database solutions using Microsoft SQL Server.
+- Developed and maintained database solutions using Microsoft SQL Server.
 
-•	Involved in requirement gathering, impact analysis, coding, UAT, and production deployment activities
+- Involved in requirement gathering, impact analysis, coding, UAT, and production deployment activities
 
 
 ## Skills & Knowledge
@@ -36,43 +36,43 @@ Jul 2019~Present
 
 ### 1. HR Analysis Dashboard [DashBoard View](https://app.powerbi.com/view?r=eyJrIjoiNjYwODVhODYtMmMyNC00NTRjLTlmMGQtMzQ0OGIyMGZlZDhkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
-•	Using Power BI, developed a comprehensive HR analysis dashboard using by integrating data from multiple sources (SQL) to provide insights into Employee performance,trends and forecasts. 
+- Using Power BI, developed a comprehensive HR analysis dashboard using by integrating data from multiple sources (SQL) to provide insights into Employee performance,trends and forecasts. 
 
-•	Implemented advanced DAX calculations and measures to measure key performance indicators (KPIs) and track Employee's metrics.
+- Implemented advanced DAX calculations and measures to measure key performance indicators (KPIs) and track Employee's metrics.
 
 [Sample Dashboard video](https://github.com/Yuvarajarul/Yuvaraj_Portfolio/assets/147295096/b9210e3a-52df-4585-a4f6-59cf14d8844b)
     
 ### 2. PWC Call Trend Analysis [DashBoard View](https://app.powerbi.com/view?r=eyJrIjoiNDRlNjFmYzYtZjZlZi00NTJjLWIzZGYtZmRlMzcwMTE2NGQ3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
-•	Using Power BI, developed a comprehensive HR analysis dashboard using by integrating data from multiple sources (SQL) to provide insights into Employee performance,trends and forecasts. 
+- Using Power BI, developed a comprehensive HR analysis dashboard using by integrating data from multiple sources (SQL) to provide insights into Employee performance,trends and forecasts. 
 
-•	Implemented advanced DAX calculations and measures to measure key performance indicators (KPIs) and track Employee's metrics.
+- Implemented advanced DAX calculations and measures to measure key performance indicators (KPIs) and track Employee's metrics.
 
 [Repositories Link](https://github.com/Yuvarajarul/Call-Trend-Analyis.git)
 
 ### 3. PWC Customer Churn Analysis [DashBoard View](https://app.powerbi.com/view?r=eyJrIjoiNjg5MWFkMzUtNDFjZS00ODYzLTg5MWMtZThiMDRlMDAwZDYwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
-•	Using Power BI, developed a comprehensive HR analysis dashboard using by integrating data from multiple sources (SQL) to provide insights into Employee performance,trends and forecasts. 
+- Using Power BI, developed a comprehensive HR analysis dashboard using by integrating data from multiple sources (SQL) to provide insights into Employee performance,trends and forecasts. 
 
-•	Implemented advanced DAX calculations and measures to measure key performance indicators (KPIs) and track Employee's metrics.
+- Implemented advanced DAX calculations and measures to measure key performance indicators (KPIs) and track Employee's metrics.
 
 ### 4. PWC Diversity & Inclusion Aalysis [DashBoard View](https://app.powerbi.com/view?r=eyJrIjoiZmU5MTM4OWMtYjZlYi00OGRlLTgwOTEtMzc0NTE4MjNlNGMxIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
-•	Using Power BI, developed a comprehensive HR analysis dashboard using by integrating data from multiple sources (SQL) to provide insights into Employee performance,trends and forecasts. 
+- Using Power BI, developed a comprehensive HR analysis dashboard using by integrating data from multiple sources (SQL) to provide insights into Employee performance,trends and forecasts. 
 
-•	Implemented advanced DAX calculations and measures to measure key performance indicators (KPIs) and track Employee's metrics.
+- Implemented advanced DAX calculations and measures to measure key performance indicators (KPIs) and track Employee's metrics.
 
 ### 5. Global GDP Data Analysis [DashBoard View](https://app.powerbi.com/view?r=eyJrIjoiNmI5ODI0NWItMWQ2ZC00Mjc3LThkZWItMTQ0Njc3ZjlhZjNkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
-•	Using Power BI, developed a comprehensive HR analysis dashboard using by integrating data from multiple sources (SQL) to provide insights into Employee performance,trends and forecasts. 
+- Using Power BI, developed a comprehensive HR analysis dashboard using by integrating data from multiple sources (SQL) to provide insights into Employee performance,trends and forecasts. 
 
-•	Implemented advanced DAX calculations and measures to measure key performance indicators (KPIs) and track Employee's metrics.
+- Implemented advanced DAX calculations and measures to measure key performance indicators (KPIs) and track Employee's metrics.
 
 ### 6. Spotify Tracks Analysis [DashBoard View](https://app.powerbi.com/view?r=eyJrIjoiNjZkZTQ0MDMtNmIzOS00YzczLWI0NWQtMWVmM2IxZjU2NmZjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
-•	Using Power BI, developed a comprehensive HR analysis dashboard using by integrating data from multiple sources (SQL) to provide insights into Employee performance,trends and forecasts. 
+- Using Power BI, developed a comprehensive HR analysis dashboard using by integrating data from multiple sources (SQL) to provide insights into Employee performance,trends and forecasts. 
 
-•	Implemented advanced DAX calculations and measures to measure key performance indicators (KPIs) and track Employee's metrics.
+- Implemented advanced DAX calculations and measures to measure key performance indicators (KPIs) and track Employee's metrics.
         
 ## Certifications:
 
