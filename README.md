@@ -48,7 +48,7 @@ https://github.com/Yuvarajarul/Yuvaraj_Portfolio/assets/147295096/b9210e3a-52df-
 
 •	Implemented advanced DAX calculations and measures to measure key performance indicators (KPIs) and track Employee's metrics.
 
-https://github.com/Yuvarajarul/Call-Trend-Analyis.git
+https://github.com/Yuvarajarul/Call-Trend-Analyis.git 
 
 ### 3. PWC Customer Churn Analysis 
 
