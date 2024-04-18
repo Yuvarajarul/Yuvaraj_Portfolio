@@ -46,6 +46,8 @@ https://github.com/Yuvarajarul/Yuvaraj_Portfolio/assets/147295096/b9210e3a-52df-
     
 ### 2. PWC Call Trend Analysis
 
+https://app.powerbi.com/view?r=eyJrIjoiNDRlNjFmYzYtZjZlZi00NTJjLWIzZGYtZmRlMzcwMTE2NGQ3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+
 •	Using Power BI, developed a comprehensive HR analysis dashboard using by integrating data from multiple sources (SQL) to provide insights into Employee performance,trends and forecasts. 
 
 •	Implemented advanced DAX calculations and measures to measure key performance indicators (KPIs) and track Employee's metrics.
