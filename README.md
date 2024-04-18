@@ -34,7 +34,8 @@ Jul 2019~Present
 
 ## Projects
 
-### 1. HR Analysis Dashboard
+### 1. HR Analysis Dashboard 
+https://app.powerbi.com/view?r=eyJrIjoiNjYwODVhODYtMmMyNC00NTRjLTlmMGQtMzQ0OGIyMGZlZDhkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
 •	Using Power BI, developed a comprehensive HR analysis dashboard using by integrating data from multiple sources (SQL) to provide insights into Employee performance,trends and forecasts. 
 
