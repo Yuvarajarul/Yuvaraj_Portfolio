@@ -48,7 +48,6 @@ Jul 2019~Present
 
 - Implemented advanced DAX calculations and measures to measure key performance indicators (KPIs) and track Employee's metrics.
 
-[Repositories Link](https://github.com/Yuvarajarul/Call-Trend-Analyis.git)
 
 ### 3. PWC Customer Churn Analysis [DashBoard View](https://app.powerbi.com/view?r=eyJrIjoiNjg5MWFkMzUtNDFjZS00ODYzLTg5MWMtZThiMDRlMDAwZDYwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
