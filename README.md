@@ -41,17 +41,36 @@ Jul 2019~Present
 •	Implemented advanced DAX calculations and measures to measure key performance indicators (KPIs) and track Employee's metrics.
 
 https://github.com/Yuvarajarul/Yuvaraj_Portfolio/assets/147295096/b9210e3a-52df-4585-a4f6-59cf14d8844b
-
     
 ### 2. PWC Call Trend Analysis
 
+•	Using Power BI, developed a comprehensive HR analysis dashboard using by integrating data from multiple sources (SQL) to provide insights into Employee performance,trends and forecasts. 
+
+•	Implemented advanced DAX calculations and measures to measure key performance indicators (KPIs) and track Employee's metrics.
+
 ### 3. PWC Customer Churn Analysis
+
+•	Using Power BI, developed a comprehensive HR analysis dashboard using by integrating data from multiple sources (SQL) to provide insights into Employee performance,trends and forecasts. 
+
+•	Implemented advanced DAX calculations and measures to measure key performance indicators (KPIs) and track Employee's metrics.
 
 ### 4. PWC Diversity & Inclusion Aalysis
 
+•	Using Power BI, developed a comprehensive HR analysis dashboard using by integrating data from multiple sources (SQL) to provide insights into Employee performance,trends and forecasts. 
+
+•	Implemented advanced DAX calculations and measures to measure key performance indicators (KPIs) and track Employee's metrics.
+
 ### 5. Global GDP Data Analysis 
 
+•	Using Power BI, developed a comprehensive HR analysis dashboard using by integrating data from multiple sources (SQL) to provide insights into Employee performance,trends and forecasts. 
+
+•	Implemented advanced DAX calculations and measures to measure key performance indicators (KPIs) and track Employee's metrics.
+
 ### 6. Spotify Tracks Analysis
+
+•	Using Power BI, developed a comprehensive HR analysis dashboard using by integrating data from multiple sources (SQL) to provide insights into Employee performance,trends and forecasts. 
+
+•	Implemented advanced DAX calculations and measures to measure key performance indicators (KPIs) and track Employee's metrics.
         
 ## Certifications:
 
