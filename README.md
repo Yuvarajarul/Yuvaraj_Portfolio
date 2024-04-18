@@ -21,7 +21,7 @@ Jul 2019~Present
 
 6.	Developed and maintained database solutions using Microsoft SQL Server.
 
-7.	Involved in requirement gathering, impact analysis, coding, unit testing, UAT, and production deployment activities.
+7.	Involved in requirement gathering, impact analysis, coding, UAT, and production deployment activities.
 
 ## Skills & Knowledge
 
