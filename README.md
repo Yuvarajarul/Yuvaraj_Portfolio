@@ -40,7 +40,7 @@ Jul 2019~Present
 
 •	Implemented advanced DAX calculations and measures to measure key performance indicators (KPIs) and track Employee's metrics.
 
- https://github.com/Yuvarajarul/Yuvaraj_Portfolio/assets/147295096/b9210e3a-52df-4585-a4f6-59cf14d8844b
+https://github.com/Yuvarajarul/Yuvaraj_Portfolio/assets/147295096/b9210e3a-52df-4585-a4f6-59cf14d8844b
 
     
 ### 2. PWC Call Trend Analysis
