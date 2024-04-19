@@ -95,6 +95,7 @@ Experienced Data Analyst with 2 years of hands-on experience in Data Analysis al
 - Share dynamic dashboards with music industry stakeholders to inform marketing strategies, playlist curation, and artist collaborations for enhanced audience engagement and music discovery experiences.
 ![Spotify](https://github.com/Yuvarajarul/Yuvaraj_Portfolio/assets/147295096/a26191f6-2ffb-401b-9eeb-b182b4f2f906)
 
+[Spotify Tracks Analysis video](https://github.com/Yuvarajarul/Yuvaraj_Portfolio/assets/147295096/9cf96855-2110-4b1d-b436-3768b0a32e18)
 
 ## PWC Virtual Internship Projects
 
