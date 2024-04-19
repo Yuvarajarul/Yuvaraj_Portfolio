@@ -20,7 +20,7 @@ Experienced Data Analyst with 2 years of hands-on experience in Data Analysis al
 
 - Involved in requirement gathering, impact analysis, coding, UAT, and production deployment activities
 
-### ISS Security Services - [01-2019 – 06-2019]
+### ISS Security Services - [Jan-2019 – Jun-2019]
 
 ### Data Entry Operator
 
