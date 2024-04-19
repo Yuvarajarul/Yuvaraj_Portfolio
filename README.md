@@ -34,9 +34,9 @@ Experienced Data Analyst with 2 years of hands-on experience in Data Analysis al
 - Tools: SSMS, SSIS, Power BI
 - Data Analysis: Data Cleaning, Data Manipulation, Data Visualization, Data Modelling, ETL, Power Query
   
-## Real Time Projects
+## Projects
 
-### Title: Lease Management Sales Analysis Dashboard
+### Title: Lease Management Sales Analysis Dashboard 
 ### Technology -SQL server 2017 ,Power BI
 - Using Power BI, developed a comprehensive sales analysis dashboard using by integrating data from multiple sources (SQL) to provide insights into sales performance, trends, and forecasts.
 - Implemented advanced DAX calculations and measures to measure key performance indicators (KPIs) and track sales metrics.
@@ -65,7 +65,7 @@ Experienced Data Analyst with 2 years of hands-on experience in Data Analysis al
 - The product type, categories, material stocks, and price are being managed. Several types of reports have been used to track the production movement, material-wise, vehicle-wise, employee data, and vendor data.
 
 
-## Practice Projects
+## Skill Development Projects
 
 ### 1. HR Analytics Dashboard - [DashBoard View](https://app.powerbi.com/view?r=eyJrIjoiNjYwODVhODYtMmMyNC00NTRjLTlmMGQtMzQ0OGIyMGZlZDhkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
