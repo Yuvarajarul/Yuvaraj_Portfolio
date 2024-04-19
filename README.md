@@ -105,7 +105,7 @@ Experienced Data Analyst with 2 years of hands-on experience in Data Analysis al
 - Share actionable reports with stakeholders to drive improvements in customer service and operational efficiency.
 - Continuously monitor and adjust strategies based on evolving call trends for enhanced performance.
   
-[PWC Call Trend Analysis Video](https://github.com/Yuvarajarul/Yuvaraj_Portfolio/assets/147295096/da1564b6-5e67-427f-9495-74b9b777498f)
+[PWC Call Trend Analysis Video](https://github.com/Yuvarajarul/Yuvaraj_Portfolio/assets/147295096/3b4d7b68-faf5-4c90-ba7c-af65eb6a600e)
 
 ### 2. PWC Customer Churn Analysis - [DashBoard View](https://app.powerbi.com/view?r=eyJrIjoiNjg5MWFkMzUtNDFjZS00ODYzLTg5MWMtZThiMDRlMDAwZDYwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
