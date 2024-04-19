@@ -76,7 +76,7 @@ Experienced Data Analyst with 2 years of hands-on experience in Data Analysis al
 
 ![HR Data SET](https://github.com/Yuvarajarul/Yuvaraj_Portfolio/assets/147295096/6b31d50b-9d50-46e1-8b9a-0041cbb8348a)
 
-[Sample Dashboard video](https://github.com/Yuvarajarul/Yuvaraj_Portfolio/assets/147295096/b9210e3a-52df-4585-a4f6-59cf14d8844b)
+[HR Analytics Dashboard video](https://github.com/Yuvarajarul/Yuvaraj_Portfolio/assets/147295096/b9210e3a-52df-4585-a4f6-59cf14d8844b)
     
 ### 2. Global GDP Data Analysis - [DashBoard View](https://app.powerbi.com/view?r=eyJrIjoiNmI5ODI0NWItMWQ2ZC00Mjc3LThkZWItMTQ0Njc3ZjlhZjNkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
