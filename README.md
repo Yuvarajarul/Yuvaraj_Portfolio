@@ -115,7 +115,7 @@ Experienced Data Analyst with 2 years of hands-on experience in Data Analysis al
 - Generate actionable insights for stakeholders to improve customer experience and loyalty.
 - Continuously monitor retention metrics to adapt strategies and maximize customer lifetime value.
 
-[PWC Customer Churn Analysis Video](https://github.com/Yuvarajarul/Yuvaraj_Portfolio/assets/147295096/da1564b6-5e67-427f-9495-74b9b777498f)
+[PWC Customer Churn Analysis Video](https://github.com/Yuvarajarul/Yuvaraj_Portfolio/assets/147295096/7cb7fb9f-ded1-4a38-a7a4-24f49585e193)
 
 ### 3. PWC Diversity & Inclusion Analysis - [DashBoard View](https://app.powerbi.com/view?r=eyJrIjoiZmU5MTM4OWMtYjZlYi00OGRlLTgwOTEtMzc0NTE4MjNlNGMxIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
