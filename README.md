@@ -74,6 +74,8 @@ Experienced Data Analyst with 2 years of hands-on experience in Data Analysis al
 - Share the dashboard on Power BI Service for collaborative decision-making and regular updates.
 - Continuously refine and update the dashboard based on feedback and evolving HR needs for informed workforce management.
 
+![HR Data SET](https://github.com/Yuvarajarul/Yuvaraj_Portfolio/assets/147295096/6b31d50b-9d50-46e1-8b9a-0041cbb8348a)
+
 [Sample Dashboard video](https://github.com/Yuvarajarul/Yuvaraj_Portfolio/assets/147295096/b9210e3a-52df-4585-a4f6-59cf14d8844b)
     
 ### 2. Global GDP Data Analysis - [DashBoard View](https://app.powerbi.com/view?r=eyJrIjoiNmI5ODI0NWItMWQ2ZC00Mjc3LThkZWItMTQ0Njc3ZjlhZjNkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
@@ -82,6 +84,8 @@ Experienced Data Analyst with 2 years of hands-on experience in Data Analysis al
 - Visualize GDP data using interactive maps, charts, and trend analyses to identify key drivers and economic hotspots.
 - Explore correlations with factors such as inflation, trade balances, and employment rates for deeper insights into economic health.
 - Share actionable insights with stakeholders to inform strategic decisions and economic policies, ensuring sustainable growth and prosperity across regions.
+![Global GDP Data](https://github.com/Yuvarajarul/Yuvaraj_Portfolio/assets/147295096/c1966ef1-963d-4614-b487-b1d37df01ed2)
+
 
 ### 3. Spotify Tracks Analysis - [DashBoard View](https://app.powerbi.com/view?r=eyJrIjoiNjZkZTQ0MDMtNmIzOS00YzczLWI0NWQtMWVmM2IxZjU2NmZjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
@@ -89,6 +93,8 @@ Experienced Data Analyst with 2 years of hands-on experience in Data Analysis al
 - Visualize track metrics such as play counts, listener demographics, and user-generated playlists for insights into audience preferences.
 - Identify top-performing tracks, analyze streaming patterns over time, and uncover correlations between features like tempo, duration, and listener engagement.
 - Share dynamic dashboards with music industry stakeholders to inform marketing strategies, playlist curation, and artist collaborations for enhanced audience engagement and music discovery experiences.
+![Spotify](https://github.com/Yuvarajarul/Yuvaraj_Portfolio/assets/147295096/a26191f6-2ffb-401b-9eeb-b182b4f2f906)
+
 
 ## PWC Virtual Internship Projects
 
