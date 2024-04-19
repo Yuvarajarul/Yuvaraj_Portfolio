@@ -104,7 +104,8 @@ Experienced Data Analyst with 2 years of hands-on experience in Data Analysis al
 - Visualize trends with interactive charts and graphs for quick insights into call patterns. Analyze peak hours, service level adherence, and identify areas for optimization.
 - Share actionable reports with stakeholders to drive improvements in customer service and operational efficiency.
 - Continuously monitor and adjust strategies based on evolving call trends for enhanced performance.
-
+  
+[PWC Call Trend Analysis Video](https://github.com/Yuvarajarul/Yuvaraj_Portfolio/assets/147295096/da1564b6-5e67-427f-9495-74b9b777498f)
 
 ### 2. PWC Customer Churn Analysis - [DashBoard View](https://app.powerbi.com/view?r=eyJrIjoiNjg5MWFkMzUtNDFjZS00ODYzLTg5MWMtZThiMDRlMDAwZDYwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
@@ -114,6 +115,8 @@ Experienced Data Analyst with 2 years of hands-on experience in Data Analysis al
 - Generate actionable insights for stakeholders to improve customer experience and loyalty.
 - Continuously monitor retention metrics to adapt strategies and maximize customer lifetime value.
 
+[PWC Customer Churn Analysis Video](https://github.com/Yuvarajarul/Yuvaraj_Portfolio/assets/147295096/da1564b6-5e67-427f-9495-74b9b777498f)
+
 ### 3. PWC Diversity & Inclusion Analysis - [DashBoard View](https://app.powerbi.com/view?r=eyJrIjoiZmU5MTM4OWMtYjZlYi00OGRlLTgwOTEtMzc0NTE4MjNlNGMxIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 - Perform a robust Diversity & Inclusion analysis in Power BI to assess workforce demographics, representation.
@@ -121,6 +124,8 @@ Experienced Data Analyst with 2 years of hands-on experience in Data Analysis al
 - Analyze inclusion survey results, engagement levels, and employee feedback to identify areas for improvement.
 - Utilize filters and drill-down capabilities for deeper insights into diversity initiatives' effectiveness.
 - Share insights with leadership to drive strategic diversity and inclusion initiatives, fostering a more inclusive workplace culture.
+
+[PWC Diversity & Inclusion Analysis Video](https://github.com/Yuvarajarul/Yuvaraj_Portfolio/assets/147295096/da1564b6-5e67-427f-9495-74b9b777498f)
 
 ## Certifications:
 
