@@ -32,7 +32,7 @@ Experienced Data Analyst with 2 years of hands-on experience in Data Analysis al
 - Datasets: MS SQL Server, MS Excel
 - Languages: T-SQL, DAX
 - Tools: SSMS, SSIS, Power BI
-- Data Analysis: Data Cleaning, Data Manipulation, Data Visualization, Data Modelling, ETL, Power Query
+- Data Analysis: Data Cleaning, Data Manipulation, Data Visualization, Data Model, ETL, Power Query
   
 ## Projects
 
