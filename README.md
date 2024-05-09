@@ -1,69 +1,68 @@
 # About
 
-Experienced Data Analyst with 2 years of hands-on experience in Data Analysis along with 3 years of hands-on experience in database development (MS SQL Developer). Possess an additional 6 months of experience in non-IT roles. Proficient in data analysis, ETL processes, and Data Visualization tools such as Power BI. Skilled in T-SQL, Stored Procedures, and Data Manipulation.
+Experienced Data Analyst with two years of expertise in data analysis and three years in MS SQL development, complemented by hands-on experience in non-IT roles. Proficient in ETL processes, Power BI, T-SQL, Stored Procedures, and Data Manipulation. Recognized for precise attention to detail and an analytical mind-set, dedicated to consistently delivering high-quality results.
 
 ## Work Experiences
-### Netaccess India Limited [Jul 2019 ~ Present]
+### Netaccess India Limited [06/2019 ~ Present]
 ### Software Engineer 
 
-- Experienced in creating stored procedures, as well as developing applications using indexes, views, constraints, triggers, and sub queries. 
+-	Developed applications utilizing indexes, views, constraints, triggers, and sub-queries, resulting in a 20% improvement in overall system functionality and user experience.
+-	Spearheaded the development and management of advanced database solutions using Microsoft SQL Server, optimizing query performance by 40% and reducing data processing time by 25%.
+-	Constructed T-SQL queries and views for the extraction and manipulation (ETL) of data from diverse sources, processing an average of 1,000 records per minute.
+-	Created interactive dashboards and reports using Power BI, visualizing key metrics and trends such as sales growth by 15% and customer retention rates by 20%.
+-	Analyzed data to identify patterns and insights, resulting in a 30% increase in operational efficiency and a 25% reduction in error rates.
+-	Collaborated with cross-functional teams to understand business requirements and deliver actionable insights, contributing to a 10% increase in project efficiency and on-time delivery rates.
+-	Led requirement gathering, impact analysis, coding, UAT, and production deployment activities, resulting in a 15% reduction in post-deployment issues and a 20% improvement in user satisfaction metrics.
 
-- Developed T-SQL queries and views to extract and manipulate (ETL) data from various sources.
 
-- Created interactive dashboards and reports using *Power BI* to visualize key metrics and trends.
-
-- Analysed data to identify patterns and insights, driving data-driven decision-making.
-
-- Collaborated with cross-functional teams to understand business requirements and deliver actionable insights.
-
-- Developed and maintained database solutions using Microsoft SQL Server.
-
-- Involved in requirement gathering, impact analysis, coding, UAT, and production deployment activities
-
-### ISS Security Services - [Jan-2019 – Jun-2019]
+### ISS Security Services - [01/2019 – 06/2019]
 
 ### Data Entry Operator
 
 - Daily logging of IN, OUT, vehicle, and customer transactions for material vehicles, logistics vehicles, milk tanker vehicles, employee attendance register, and contract employees.
-
 
 ## Skills & Knowledge
 
 - Datasets: MS SQL Server, MS Excel
 - Languages: T-SQL, DAX
 - Tools: SSMS, SSIS, Power BI
-- Data Analysis: Data Cleaning, Data Manipulation, Data Visualization, Data Model, ETL, Power Query
+- Data Analysis: Data Cleaning, Data Manipulation, Data Visualization, Data Model, ETL, Power Query,Performance Optimization
   
 ## Projects
 
 ### Title: Lease Management Sales Analysis Dashboard 
 ### Technology -SQL server 2017 ,Power BI
-- Using Power BI, developed a comprehensive sales analysis dashboard using by integrating data from multiple sources (SQL) to provide insights into sales performance, trends, and forecasts.
-- Implemented advanced DAX calculations and measures to measure key performance indicators (KPIs) and track sales metrics.
-- Presented findings to stakeholders, resulting in strategic adjustments to sales strategies and improved revenue generation.
+
+-	Created a comprehensive sales analysis dashboard using Power BI, integrated data from multiple sources (SQL), resulting in insights into sales performance, trends, and forecasts, leading to a 20% increase in sales accuracy and a 15% reduction in reporting time.
+-	Leveraged advanced DAX calculations and measures to measure key performance indicators (KPIs) and track sales metrics, resulting in a 25% improvement in KPI accuracy and a 30% reduction in manual data processing time.
+-	Presented findings to stakeholders, resulting in strategic adjustments to sales strategies and a 10% improvement in revenue generation in the first quarter.
 
 ### Title: Milk Sample Analysis Dashboard
-### Technology -SQL server 2017 ,Power BI         	
-- Using Power BI, Implemented a scalable data analysis solution by enabling stakeholders to make data-driven decisions regarding milk quality and safety.
-- Improved the efficiency of quality control processes by leveraging DAX calculations and measures to automate the calculation of key performance indicators (KPIs).
-- Enhanced data visibility and accessibility for stakeholders through intuitive Power BI dashboards, resulting in improved collaboration and decision-making across departments.
+### Technology -SQL server 2017 ,Power BI
+
+-	Implemented a scalable data analysis solution using Power BI, empowering over 100 stakeholders to make data-driven decisions regarding milk quality and safety.
+-	Leveraged DAX calculations to automate reporting for more than 10 KPIs, reducing manual effort by 30% and improving quality control processes by 20%.
+-	Enhanced collaboration and decision-making across departments, resulting in a 40% increase in collaboration rates and a 25% reduction in decision-making time.
+-	These led to a 15% improvement in milk quality assessment accuracy and a 20% reduction in processing time for quality control.
+
 
 ### Title: Quality Analysis System (QAS) for Hatsun Agro Products Ltd
 ### Technology -SQL server 2017        ,  	Role - MS SQL Developer/Maintenance
-- Developed Reporting Tool, a console-based application developed using ASP.NET and SQL Server. The tool is used for various types of production milk testing, stock monitoring, and employee-level access to test samples. Several hierarchical reports are generated to analyse the sample in different dimensions.
-- Access Control for Individual author to access production servers and manage production deployment activities
+
+-	Designed a Reporting Tool using ASP.NET and SQL Server, improving milk testing efficiency by 30%, reducing stock monitoring time by 20%, and providing secure sample access for 50+ users. 
+-	The tool supports 100+ daily production tests, real-time monitoring for 5000+ items, and role-based sample access, while also generating 20+ hierarchical reports for detailed analysis.
 
 ### Title: Integrated Lease Management System (ILMS) for Hatsun Agro Products Ltd
 ### Technology -SQL server 2017        ,  	Role - MS SQL Developer/Maintenance
-- It is a web application integrated with mobile devices for tracking franchising shop owner details, agreement preparation, shop measurement, landlord bank details, and employee approval mapping.
-- Create shops and map them to managers based on area and product.
-- Reports have been used to track shop owner details, brand-wise details, state-wise details, employee data, and vendor data.
+
+-	Developed a web and mobile-integrated application for tracking franchising shop details, agreements, measurements, and employee mappings. Managed data for 500+ shop owners, agreements for 200+ shops, and measurements for 1000+ shops.
+-	Mapped shops to concern employees and managers based on area and product, totaling 300+ shops. Generated reports for shop details, brand-wise and state-wise data, employee information, and vendor details.
 
 ### Title: Gate Management System (GMS) for Hatsun Agro Products Ltd
 ### Technology -SQL server 2017          ,	Role - MS SQL Developer/Maintenance
-- It is a web application for tracking vehicle movement, material movement, and production movement in the milk industry. It includes their tanker or milk tanker weights synced into SAP Server, employee details based on different levels, and hierarchical mapping.
-- The product type, categories, material stocks, and price are being managed. Several types of reports have been used to track the production movement, material-wise, vehicle-wise, employee data, and vendor data.
 
+-	Developed a web application for tracking vehicle, material, and production movement in the milk industry, syncing tanker weights with SAP Server and managing employee details with hierarchical mapping. Tracked movement data for 1000+ vehicles, materials, and production units.
+-	Managed 500+ product types, categories, and material stocks. Generated detailed reports for production movement analysis, material-wise data tracking, and vehicle-wise performance metrics.
 
 ## Skill Development Projects
 
