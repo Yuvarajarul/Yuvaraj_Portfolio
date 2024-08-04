@@ -1,9 +1,9 @@
 # About
 
-Experienced Data Analyst with two years of expertise in data analysis and three years in MS SQL development, complemented by hands-on experience in non-IT roles. Proficient in ETL processes, Power BI, T-SQL, Stored Procedures, and Data Manipulation. Recognized for precise attention to detail and an analytical mind-set, dedicated to consistently delivering high-quality results.
+Experienced Data Analyst with two plus years of expertise in Data Analysis and three plus years in MS SQL development and MY SQL, complemented by hands-on experience in non-IT roles. Proficient in ETL processes, Power BI, T-SQL, Stored Procedures, and Data Manipulation. Recognized for precise attention to detail and an analytical mind-set, dedicated to consistently delivering high-quality results.
 
 ## Work Experiences
-### Convegenius.AI, Noida [076/2024] - [Present]
+### Convegenius.AI, Noida [06/2024] - [Present]
 ### Senior Data Analyst – Tamil Nadu School Education Department
 
 - Created interactive dashboards and reports using Power BI, visualizing Key Metrics and Trends such as School students, Teachers, School growth of 15% and Students, Teacher performance retention rates by 20%.
@@ -31,14 +31,14 @@ Experienced Data Analyst with two years of expertise in data analysis and three 
 
 ## Skills & Knowledge
 
-- Datasets: MS SQL Server, MS Excel
+- Datasets: MS SQL Server, MS Excel, MY SQL
 - Languages: T-SQL, DAX
-- Tools: SSMS, SSIS, Power BI
+- Tools: SSMS, SSIS, Power BI, Figma
 - Data Analysis: Data Cleaning, Data Manipulation, Data Visualization, Data Model, ETL, Power Query,Performance Optimization
   
 ## Projects
 ### Title: School & Student Registry Dashboard
-### Technology - MySQL server 2017, Power BI, Figma
+### Technology - MySQL server 2017, Power BI, Figma          Role -Senior Data Analyst
 - Student Enrolment Trends: Developed a comprehensive School Registry Dashboard to analyse and visualize student enrolment trends across multiple schools, enabling proactive resource planning and allocation.
 - Academic Performance Analysis: Implemented robust data analysis techniques to evaluate standardized test scores and academic performance metrics, empowering educational stakeholders with actionable insights 
   for targeted improvements.
