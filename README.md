@@ -1,6 +1,6 @@
 # About
 
-Experienced Data Analyst with two plus years of expertise in Data Analysis and three plus years in MS SQL development and MY SQL, complemented by hands-on experience in non-IT roles. Proficient in ETL processes, Power BI, T-SQL, Stored Procedures, and Data Manipulation. Recognized for precise attention to detail and an analytical mind-set, dedicated to consistently delivering high-quality results.
+Experienced Data Analyst with 2.5 years of expertise in data analysis, along with 5 years of specialized experience in MS SQL development. Proficient in ETL processes, Power BI, T-SQL, Stored Procedures, and Data Manipulation. Demonstrates exceptional attention to detail and an analytical mindset, committed to delivering high-quality results. Additionally, brings hands-on experience from non-IT roles, contributing to a well-rounded skill set and a versatile approach to problem-solving. Overall, possesses 5.5 years of professional experience in data management and analysis.
 
 ## Work Experiences
 ### Convegenius.AI, Noida [06/2024] - [Present]
@@ -38,11 +38,13 @@ Experienced Data Analyst with two plus years of expertise in Data Analysis and t
   
 ## Projects
 ### Title: School & Student Registry Dashboard
-### Technology - MySQL server 2017, Power BI, Figma          Role -Senior Data Analyst
+### Technology - MySQL server, Power BI, Figma          Role -Senior Data Analyst
 - Student Enrolment Trends: Developed a comprehensive School Registry Dashboard to analyse and visualize student enrolment trends across multiple schools, enabling proactive resource planning and allocation.
-- Academic Performance Analysis: Implemented robust data analysis techniques to evaluate standardized test scores and academic performance metrics, empowering educational stakeholders with actionable insights 
-  for targeted improvements.
-- Resource Allocation Efficiency: Designed and implemented interactive dashboards to monitor and optimize resource allocation, enhancing operational efficiencies and ensuring equitable distribution of ducational resources
+- Academic Performance Analysis: Implemented robust data analysis techniques to evaluate standardized test scores and academic performance metrics, empowering educational stakeholders with actionable insights for targeted improvements.
+- Resource Allocation Efficiency: Designed and implemented interactive dashboards to monitor and optimize resource allocation, enhancing operational efficiencies and ensuring equitable distribution of educational resources.
+- School Infra Dashboard: A School Infra Dashboard typically includes details on classroom and building conditions, sanitation facilities such as toilets and drinking water, digital infrastructure including computers and internet access, and sports and recreational facilities like playgrounds and equipment.
+- School Career Guidance Dashboard: The School Career Guidance Dashboard integrates comprehensive data to enhance educational outcomes and career planning. It tracks the training and exam attendance of over 50000 teachers, providing insights into their professional development. For students, it analyses academic performance for more than 1300000 Class 12 students, including pass rates, failures, and absences.
+
 ### Title: Lease Management Sales Analysis Dashboard 
 ### Technology -SQL server 2017 ,Power BI
 
