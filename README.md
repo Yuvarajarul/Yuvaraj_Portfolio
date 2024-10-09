@@ -1,24 +1,26 @@
 # About
 
-Experienced Data Analyst with 2.5 years of expertise in data analysis, along with 5 years of specialized experience in MS SQL development. Proficient in ETL processes, Power BI, T-SQL, Stored Procedures, and Data Manipulation. Demonstrates exceptional attention to detail and an analytical mindset, committed to delivering high-quality results. Additionally, brings hands-on experience from non-IT roles, contributing to a well-rounded skill set and a versatile approach to problem-solving. Overall, possesses 5.5 years of professional experience in data management and analysis.
+Experienced Data Analyst with over 3 years in data analysis and 5 years in MS SQL, MY SQL development. Skilled in ETL processes, Power BI, T-SQL, and data manipulation. Offers a practical approach to problem-solving backed by 5.9 years of experience in data management and analysis.
 
 ## Work Experiences
 ### Convegenius.AI, Noida [06/2024] - [Present]
 ### Senior Data Analyst – Tamil Nadu School Education Department
 
-- Created interactive dashboards and reports using Power BI, visualizing Key Metrics and Trends such as School students, Teachers, School growth of 15% and Students, Teacher performance retention rates by 20%.
-- Analyzed data to identify Patterns and Insights, resulting in a 30% increase in operational efficiency and a 25% reduction in error rates.
-- Collaborated with cross-functional teams to understand business requirements and deliver actionable insights, contributing to a 10% increase in project efficiency and on-time delivery rates.
-- Led Requirement Gathering, impact analysis, coding, UAT, and Production Deployment activities, resulting in a 15% reduction in post-deployment issues and a 20% improvement in user satisfaction metrics
+- Developed interactive dashboards and reports in Power BI, effectively visualizing key metrics such as student and teacher statistics, contributing to a 15% growth in school enrollment and a 20% improvement in 
+  teacher performance retention rates. 
+- Conducted comprehensive data analysis to uncover patterns and insights, leading to a 30% increase in operational efficiency and a 25% decrease in error rates. 
+- Led a team of 4 members, fostering collaboration and guiding efforts to gather business requirements and deliver actionable insights, resulting in a 10% increase in project efficiency and timely delivery. 
+- Wrote efficient SQL queries to support data extraction and transformation, managing around 17 different Power BI reports and dashboards to ensure accurate and timely data representation.
+- Spearheaded requirement gathering, impact analysis, coding, UAT, and production deployment processes, achieving a 15% reduction in post-deployment issues and a 20% boost in user satisfaction. 
 
 ### Netaccess India Limited [07/2019 ~ 06/2024]
 ### Software Engineer 
 
--	Developed applications utilizing indexes, views, constraints, triggers, and sub-queries, resulting in a 20% improvement in overall system functionality and user experience.
--	Spearheaded the development and management of advanced database solutions using Microsoft SQL Server, optimizing query performance by 40% and reducing data processing time by 25%.
--	Constructed T-SQL queries and views for the extraction and manipulation (ETL) of data from diverse sources, processing an average of 1,000 records per minute.
--	Created interactive dashboards and reports using Power BI, visualizing key metrics and trends such as sales growth by 15% and customer retention rates by 20%.
--	Analyzed data to identify patterns and insights, resulting in a 30% increase in operational efficiency and a 25% reduction in error rates.
+-	Developed applications utilizing Indexes, views, Constraints, Triggers, and Sub-queries, resulting in a 20% improvement in overall system functionality and user experience. 
+-	Spearheaded the development and management of advanced database solutions using Microsoft SQL Server, optimizing Query Performance by 40% and reducing data processing time by 25%. 
+-	Constructed T-SQL queries and views for the extraction and manipulation (ETL) of data from diverse sources, processing an average of 1,000 records per minute. 
+-	Created interactive dashboards and reports using Power BI, visualizing Key Metrics and Trends such as sales growth of 15% and customer retention rates by 20%.
+-	Analyzed data to identify Patterns and Insights, resulting in a 30% increase in operational efficiency and a 25% reduction in error rates. 
 -	Collaborated with cross-functional teams to understand business requirements and deliver actionable insights, contributing to a 10% increase in project efficiency and on-time delivery rates.
 -	Led requirement gathering, impact analysis, coding, UAT, and production deployment activities, resulting in a 15% reduction in post-deployment issues and a 20% improvement in user satisfaction metrics.
 
